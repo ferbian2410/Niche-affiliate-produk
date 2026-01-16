@@ -1,8 +1,8 @@
 Niche: Aksesoris Fashion Pria dan Wanita
-Tujuan: Affiliate Shopee
-Target: Artikel Blog SEO
-Keyword Utama: aksesoris fashion pria
-Keyword Turunan:
+* Tujuan: Affiliate Shopee
+* Target: Artikel Blog SEO
+* Keyword Utama: aksesoris fashion pria
+* Keyword Turunan:
 - cincin pria kekinian
 - gelang pria murah
 - kalung pria anti karat
